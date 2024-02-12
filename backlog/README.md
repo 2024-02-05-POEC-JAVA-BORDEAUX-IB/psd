@@ -30,10 +30,17 @@ Pour consolider ses relations avec ses partenaires et générer du trafic sur le
 
 ## Product BackLog (PB)
 
-![1](./pb_1.png)
-![2](./pb_2.png)
+### Backlogs
+
 ![3](./pb_3.png)
 ![4](./pb_4.png)
 ![5](./pb_5.png)
 ![6](./pb_6.png)
 ![7](./pb_7.png)
+
+---
+
+### Sprints : objectif *Coaching*
+
+![1](./pb_1.png)
+![2](./pb_2.png)
