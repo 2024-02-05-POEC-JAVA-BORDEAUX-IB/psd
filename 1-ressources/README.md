@@ -2,6 +2,12 @@
 
 ---
 
+## Manifeste Agile
+
+- [Lien manifeste Agile](https://manifesteagile.fr/)
+
+---
+
 ## Glossaire SCRUM
 
 - [PSD Glossaire](https://www.scrum.org/resources/professional-scrum-developer-glossary)
