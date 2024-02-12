@@ -101,3 +101,9 @@ Developing People and Teams:
 - Self-Managing Teams, Facilitation, Coaching and Mentoring
 Managing Products with Agility:
 - Forecasting & Release Planning, Product Value, Product Backlog Management, Stakeholders & Customers
+
+---
+
+## Hors certification
+
+- [Différents contrats](https://fr.linkedin.com/pulse/contrats-agiles-le-casse-tete-chinois-eric-le-guillou)
