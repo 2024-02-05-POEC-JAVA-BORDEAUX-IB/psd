@@ -2,9 +2,9 @@
 
 ---
 
-## Manifeste Agile
+## Manifeste Agile avec les 4 valeurs et 12 principes
 
-- [Lien manifeste Agile](https://manifesteagile.fr/)
+- [Manifeste Agile](https://manifesteagile.fr/)
 
 ---
 
@@ -54,10 +54,16 @@
 
 - [Design Pattern](https://refactoring.guru/fr/design-patterns)
 - [Mise en pratique différence BDD et ATDD](https://www.youtube.com/watch?v=aebv1z80vSM)
+- [Extreme Quotation](https://blog.myagilepartner.fr/index.php/2017/04/19/extreme-quotation/)
+- [Planning Poker](https://www.atlassian.com/blog/platform/scrum-poker-for-agile-projects)
 - [SCRUM Cheat-sheets(aide mémoire)](https://cheatography.com/vini-vivero/cheat-sheets/scrum/)
 - [Ebook sur les métriques à télécharger après avoir créé un compte sur le site](https://www.coursehero.com/file/169115232/codacy-ebook-metricspdf/)
 - [Tests unitaires spy, stub et mock avec PHP](https://grafikart.fr/tutoriels/phpunit-test-unit-308)
 - [Tests unitaires spy, stub et mock avec JavaScript (il date un peu mais les concepts restent les mêmes)](https://www.youtube.com/watch?v=dF_zUg7uCpA)
+
+### Exemple de Definition of Done
+
+![DoD](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Examnple.png)
 
 ---
 
@@ -66,6 +72,7 @@
 
 - **LISEZ ET ECOUTEZ LE SCRUM GUIDE 2020 TOUS LES JOURS**
 - [Les conseils de Pachai Devaraj](https://pachai-devaraj.medium.com/professional-scrum-master-i-cheat-sheet-tips-8906d51d3426)
+**WARNING** : attention pour le point 6, Sprint Porgress n'est pas un artefact de SCRUM. LEs 3 Artefacts sont Product Backlog, Sprint BackLog et l'incrément.
 
 ---
 
