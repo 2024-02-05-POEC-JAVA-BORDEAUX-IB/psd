@@ -60,6 +60,8 @@
 - [Ebook sur les métriques à télécharger après avoir créé un compte sur le site](https://www.coursehero.com/file/169115232/codacy-ebook-metricspdf/)
 - [Tests unitaires spy, stub et mock avec PHP](https://grafikart.fr/tutoriels/phpunit-test-unit-308)
 - [Tests unitaires spy, stub et mock avec JavaScript (il date un peu mais les concepts restent les mêmes)](https://www.youtube.com/watch?v=dF_zUg7uCpA)
+- [Principes SOLID en PHP](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [Principes SOLID en JavaScript](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
 
 ### Exemple de Definition of Done
 
