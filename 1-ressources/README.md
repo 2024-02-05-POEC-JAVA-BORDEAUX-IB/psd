@@ -1,5 +1,24 @@
 # Ressources pour préparer la certification PSD I
 
+## Repartitions des questions (officiel depuis SCRUM.org)
+
+- [Lien vers l'explication de la repartition des questions](https://www.scrum.org/assessments/professional-scrum-developer-certification)
+
+
+PSD includes questions from the following Focus Areas as defined in the Professional Scrum Competencies. ***Approximately 85%*** of the questions will be selected randomly from the following Focus Areas.
+
+Developing & Delivering Products Professionally:
+- Backlog Refinement, Cross-functional, Self-managed Development, Design & Architecture, - Programming, Quality, Testing
+
+Additionally, ***approximately 15%*** of the questions will be selected randomly from the Focus Areas listed below. These questions are designed to validate your knowledge around the core concepts of Scrum.
+
+Understanding and Applying the Scrum Framework:
+- Empiricism, Scrum Values, Scrum Team, Events, Artifacts, Done
+Developing People and Teams:
+- Self-Managing Teams, Facilitation, Coaching and Mentoring
+Managing Products with Agility:
+- Forecasting & Release Planning, Product Value, Product Backlog Management, Stakeholders & Customers
+
 ---
 
 ## Manifeste Agile avec les 4 valeurs et 12 principes
@@ -63,6 +82,10 @@
 - [Principes SOLID en PHP](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - [Principes SOLID en JavaScript](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
 
+### Code coverage
+
+![cv](./img/coverage.png)
+
 ### Exemple de Definition of Done
 
 ![DoD](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Examnple.png)
@@ -89,27 +112,6 @@
 - Cross-Functional, Self-Managing Teams
 - Scrum Framework
 - Scrum theory and Principles
-
----
-
-## Repartitions des questions (officiel depuis SCRUM.org)
-
-- [Lien vers l'explication de la repartition des questions](https://www.scrum.org/assessments/professional-scrum-developer-certification)
-
-
-PSD includes questions from the following Focus Areas as defined in the Professional Scrum Competencies. Approximately 85% of the questions will be selected randomly from the following Focus Areas.
-
-Developing & Delivering Products Professionally:
-- Backlog Refinement, Cross-functional, Self-managed Development, Design & Architecture, - Programming, Quality, Testing
-
-Additionally, approximately 15% of the questions will be selected randomly from the Focus Areas listed below. These questions are designed to validate your knowledge around the core concepts of Scrum.
-
-Understanding and Applying the Scrum Framework:
-- Empiricism, Scrum Values, Scrum Team, Events, Artifacts, Done
-Developing People and Teams:
-- Self-Managing Teams, Facilitation, Coaching and Mentoring
-Managing Products with Agility:
-- Forecasting & Release Planning, Product Value, Product Backlog Management, Stakeholders & Customers
 
 ---
 
