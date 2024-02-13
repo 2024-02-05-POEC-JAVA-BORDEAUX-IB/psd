@@ -116,3 +116,9 @@ Managing Products with Agility:
 ## Hors certification
 
 - [Différents contrats](https://fr.linkedin.com/pulse/contrats-agiles-le-casse-tete-chinois-eric-le-guillou)
+
+### Injections SQL
+
+[Source E. KAAS Harrys-phills](https://fr.linkedin.com/pulse/comprendre-les-diff%C3%A9rents-types-de-sql-injection-et-vos-ecoucou-kaas)
+
+![sql](https://media.licdn.com/dms/image/D4E12AQHnzJ21JYJ-Fg/article-cover_image-shrink_720_1280/0/1689675199945?e=2147483647&v=beta&t=peB2gXckkdQtft7D7rV8QoqgMHY6VYwhBFedGxwuO6E)
