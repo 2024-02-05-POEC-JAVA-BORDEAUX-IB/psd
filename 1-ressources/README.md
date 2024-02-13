@@ -122,3 +122,20 @@ Managing Products with Agility:
 [Source E. KAAS Harrys-phills](https://fr.linkedin.com/pulse/comprendre-les-diff%C3%A9rents-types-de-sql-injection-et-vos-ecoucou-kaas)
 
 ![sql](https://media.licdn.com/dms/image/D4E12AQHnzJ21JYJ-Fg/article-cover_image-shrink_720_1280/0/1689675199945?e=2147483647&v=beta&t=peB2gXckkdQtft7D7rV8QoqgMHY6VYwhBFedGxwuO6E)
+
+---
+
+### Faille CSRF
+
+
+#### Attaque
+
+[Source leblogduhacker](https://www.leblogduhacker.fr/faille-csrf-explications-contre-mesures/)
+![csrf](https://images.leblogduhacker.fr/2014/02/faille-csrf1.jpg)
+
+#### Solution
+
+[Source vaadata]()
+![csrf](https://www.vaadata.com/blog/wp-content/uploads/2022/06/jeton-CSRF-1024x535.png)
+
+
